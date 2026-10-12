@@ -1,0 +1,75 @@
+Nome: Nickolas Dos Santos Cremasco 
+RGM:47450363
+
+Nome: Keven da Conceição Viana
+RGM: 48906786
+
+Nome: Jhonatas Paranhos do Nascimento
+RGM: 49008994
+
+Nome: Nicolas de Paula Pacheco
+RGM : 47168536
+
+
+**AREA DE INTERESSE**
+
+**Desenvolvimento de Software**
+
+
+
+**EVENTOS PARA ACOMPANHAR**
+
+**🧑‍💻 XConf Americas 2026 — 5 de novembro**
+
+
+
+**⚡ JSConf Brasil 2026 — 28 de novembro**
+
+
+
+**🧠 GambiConf 2026 — 28 e 29 de novembro**
+
+
+
+
+
+**3 COMUNIDADES ONLINE**
+
+
+
+**1. Programadores BR — Discord**
+
+
+
+**2. He4rt Developers — Discord**
+
+
+
+**3. Dev.to**
+
+
+
+**3 PESSOAS/PERFIS PROFISSIONAIS QUE GOSTARIA DE CONHECER**
+
+**1. Gustavo Guanabara**
+
+**2. Felipe Deschamps**
+
+**3. Renato Augusto (programador)**
+
+
+
+**Ação de contribuição**
+
+**Criar e publicar um pequeno projeto open source relacionado a desenvolvimento web, documentando o processo no GitHub para que outros estudantes possam utilizar, estudar e contribuir.**
+
+**Exemplo: desenvolver uma ferramenta simples em Next.js/TypeScript, como um dashboard, componente reutilizável ou sistema de autenticação, e disponibilizar o código com README explicando como executar e contribuir.**
+
+**Meta: publicar 1 projeto por mês e responder às dúvidas ou issues de quem utilizá-lo.**
+
+
+
+**Objetivo mensurável**
+
+**Nos próximos 3 meses, estabelecer 3 contatos profissionais qualificados na área de desenvolvimento de software, realizar 1 contribuição para uma comunidade ou projeto open source e participar de 1 conversa de mentoria com um profissional da área.**
+
