@@ -1,5 +1,5 @@
-const paragrafo = document.getElementById("mensagem");
+const paragrafo = document.getElementById("mensagem")
 
 paragrafo.addEventListener("click", function () {
-  paragrafo.textContent = "Você clicou aqui!";
-});
+  paragrafo.textContent = "Você clicou aqui!"
+})

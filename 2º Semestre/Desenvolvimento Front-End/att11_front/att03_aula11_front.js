@@ -11,32 +11,32 @@
     (texto vermelho E em negrito).
   - Clicar de novo em "mostrar mensagem" não duplica o parágrafo.
 */
-const area = document.getElementById("area");
-let paragrafo = null;
-let vermelho = false;
-let negrito = false;
+const area = document.getElementById("area")
+let paragrafo = null
+let vermelho = false
+let negrito = false
 
 function aplicarEstilos() {
-  if (!paragrafo) return;
-  paragrafo.style.color = vermelho ? "red" : "";
-  paragrafo.style.fontWeight = negrito ? "bold" : "";
+  if (!paragrafo) return
+  paragrafo.style.color = vermelho ? "red" : ""
+  paragrafo.style.fontWeight = negrito ? "bold" : ""
 }
 
 document.getElementById("btnMostrar").addEventListener("click", function () {
   if (!paragrafo) {
-    paragrafo = document.createElement("p");
-    paragrafo.textContent = "Água mole em pedra dura, tanto bate até que fura.";
-    area.appendChild(paragrafo);
+    paragrafo = document.createElement("p")
+    paragrafo.textContent = "Água mole em pedra dura, tanto bate até que fura."
+    area.appendChild(paragrafo)
   }
-  aplicarEstilos();
+  aplicarEstilos()
 });
 
 document.getElementById("btnVermelho").addEventListener("click", function () {
-  vermelho = true;
-  aplicarEstilos();
-});
+  vermelho = true
+  aplicarEstilos()
+})
 
 document.getElementById("btnNegrito").addEventListener("click", function () {
-  negrito = true;
-  aplicarEstilos();
-});
+  negrito = true
+  aplicarEstilos()
+})
